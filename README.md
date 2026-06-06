@@ -111,6 +111,6 @@ Features:
 
 ## Author
 
-Noor Adel
+Ruba Sroor
 
 Master's Student in Artificial Intelligence and Robotics
